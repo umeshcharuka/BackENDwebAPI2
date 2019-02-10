@@ -1,0 +1,10 @@
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\bin\Debug\Pro.Repo.dll
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\bin\Debug\Pro.Repo.pdb
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\bin\Debug\Dapper.dll
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\bin\Debug\Pro.domain.dll
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\bin\Debug\Pro.domain.pdb
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\bin\Debug\Dapper.xml
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\obj\Debug\Pro.Repo.csprojResolveAssemblyReference.cache
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\obj\Debug\Pro.Repo.csproj.CoreCompileInputs.cache
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\obj\Debug\Pro.Repo.dll
+C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\Pro.Repo\obj\Debug\Pro.Repo.pdb
