@@ -10,7 +10,7 @@ using System.Web.Http.Cors;
 
 namespace BackEnd.Controllers.Process
 {
-    [EnableCors(origins: "*", headers: "*", methods: "*")]
+    //[EnableCors(origins: "*", headers: "*", methods: "*")]
     [RoutePrefix("Customer")]
     public class CustomerController : ApiController
     {
@@ -43,6 +43,39 @@ namespace BackEnd.Controllers.Process
 
             catch (Exception e
             ) {
+
+
+                return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, e);
+
+            }
+
+
+
+
+
+        }
+
+
+        [HttpPost]
+        [Route("Save")]
+        public HttpResponseMessage savedata(Customer data)
+        {
+            try
+            {
+
+
+
+                var d = repo.saveCus(data);
+
+                return Request.CreateResponse(HttpStatusCode.OK, d);
+
+            }
+
+
+
+            catch (Exception e
+            )
+            {
 
 
                 return Request.CreateErrorResponse(HttpStatusCode.InternalServerError, e);

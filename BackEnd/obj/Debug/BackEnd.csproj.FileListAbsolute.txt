@@ -28,7 +28,6 @@ C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\bin\System.Web
 C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\bin\System.Web.WebPages.Razor.xml
 C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\bin\Antlr3.Runtime.pdb
 C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
-C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
 C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\obj\Debug\BackEnd.dll
 C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
 C:\Users\uc\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\bin\Pro.domain.dll

@@ -38,6 +38,40 @@ namespace Pro.Repo.Pro.Repo
 
         }
 
+        public int saveCus(Customer Data) {
+
+
+            try
+
+            {
+
+                using (IDbConnection cn=Connection) {
+
+                return cn.Execute("SP_SaveALLCustomers", new { id = Data.Id, name = Data.name, Gender = Data.Gender, address = Data.address, Email = Data.Email }, commandType: CommandType.StoredProcedure);
+
+       
+                }
+
+
+
+            }
+
+
+
+            catch(Exception e)
+
+            {
+                throw e;
+
+            }
+
+
+
+
+
+
+        }
+
 
     }
 }
